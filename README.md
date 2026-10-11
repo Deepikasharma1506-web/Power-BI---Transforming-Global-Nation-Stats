@@ -125,12 +125,7 @@ GitHub does not render `.pbix` files as interactive reports directly on the repo
 - Do not upload confidential information or datasets you do not have permission to share.
 
 ## Author
-
-Add your preferred name and portfolio links before publishing:
-
-- **Name:** Your Name
-- **LinkedIn:** Your LinkedIn profile URL
-- **GitHub:** Your GitHub profile URL
+- **Name:** DEEPIKA SHARMA
 
 ## Conclusion
 
